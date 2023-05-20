@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakePresetLoader">{
+  &quot;useNewFormat&quot;: true
+}</component>
+  <component name="CMakeReloadState">
+    <option name="reloaded" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated>
+      <config projectName="homework2" targetName="homework2" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1aedc678-8de3-451c-8494-9aeaff573990" name="变更" comment="first commit" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2022" />
+    <option name="minorVersion" value="3.3" />
+  </component>
+  <component name="ProjectId" id="2NsB9uUbXZ5EtNpVz9aRnrZJPqo" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/cpp/source_cpp/clion/homework2&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="CMake 应用程序.homework2">
+    <configuration name="homework2" type="CMakeListConfigurationType" factoryName="CMakeListConfigurationFactory" temporary="true">
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="CMake 应用程序.homework2" />
+      <item itemvalue="CMake 调试.homework2" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="CMake 调试.homework2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="1aedc678-8de3-451c-8494-9aeaff573990" name="变更" comment="" />
+      <created>1680442760851</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1680442760851</updated>
+      <workItem from="1680442762309" duration="291000" />
+      <workItem from="1680593062082" duration="101000" />
+      <workItem from="1680618823762" duration="2928000" />
+      <workItem from="1680664976774" duration="407000" />
+      <workItem from="1680665395344" duration="4767000" />
+      <workItem from="1680707339812" duration="1269000" />
+      <workItem from="1680941088431" duration="6848000" />
+      <workItem from="1680954595477" duration="4447000" />
+      <workItem from="1680959592508" duration="3996000" />
+      <workItem from="1681015117378" duration="26000" />
+      <workItem from="1681020462106" duration="7000" />
+      <workItem from="1681023931727" duration="325000" />
+      <workItem from="1681037937577" duration="6916000" />
+      <workItem from="1681210455455" duration="9124000" />
+      <workItem from="1681227314725" duration="2000" />
+      <workItem from="1681307956467" duration="142000" />
+      <workItem from="1681367330495" duration="13000" />
+      <workItem from="1681475037939" duration="1634000" />
+      <workItem from="1681477346873" duration="2961000" />
+      <workItem from="1681611173653" duration="5152000" />
+      <workItem from="1681627560959" duration="7339000" />
+      <workItem from="1681640975526" duration="2485000" />
+      <workItem from="1681643541518" duration="6466000" />
+      <workItem from="1681737003930" duration="3020000" />
+      <workItem from="1681792209679" duration="3428000" />
+      <workItem from="1681813542235" duration="5307000" />
+      <workItem from="1681885206513" duration="2692000" />
+      <workItem from="1681921323445" duration="1457000" />
+      <workItem from="1681986602442" duration="4000" />
+      <workItem from="1681988165964" duration="8148000" />
+      <workItem from="1682044783445" duration="6855000" />
+      <workItem from="1682053873433" duration="7702000" />
+      <workItem from="1682091365353" duration="5000" />
+      <workItem from="1682161778225" duration="2000" />
+      <workItem from="1682247709814" duration="5482000" />
+      <workItem from="1682428606454" duration="2598000" />
+      <workItem from="1682568446591" duration="15000" />
+      <workItem from="1682568568878" duration="25000" />
+      <workItem from="1682568647629" duration="19000" />
+      <workItem from="1682568889684" duration="505000" />
+      <workItem from="1682569408331" duration="2373000" />
+      <workItem from="1682598536103" duration="754000" />
+      <workItem from="1682599460165" duration="721000" />
+      <workItem from="1682661373616" duration="479000" />
+      <workItem from="1682661910240" duration="210000" />
+      <workItem from="1682662155250" duration="5201000" />
+      <workItem from="1682680474971" duration="915000" />
+      <workItem from="1682681408874" duration="16958000" />
+      <workItem from="1682749599977" duration="2085000" />
+      <workItem from="1682775492020" duration="20000" />
+      <workItem from="1682775570920" duration="15438000" />
+      <workItem from="1682792353922" duration="5079000" />
+      <workItem from="1682799425563" duration="8000" />
+      <workItem from="1682801061134" duration="225000" />
+      <workItem from="1682801314005" duration="9592000" />
+      <workItem from="1682825911900" duration="649000" />
+      <workItem from="1682955666474" duration="29000" />
+      <workItem from="1682955933729" duration="135000" />
+      <workItem from="1683079557481" duration="6000" />
+      <workItem from="1683079634097" duration="1615000" />
+      <workItem from="1683097993433" duration="2085000" />
+      <workItem from="1683100117801" duration="1503000" />
+      <workItem from="1683102324981" duration="600000" />
+      <workItem from="1683106957074" duration="1000" />
+      <workItem from="1683124219886" duration="395000" />
+      <workItem from="1684069206118" duration="632000" />
+      <workItem from="1684549681927" duration="14000" />
+      <workItem from="1684568348731" duration="270000" />
+      <workItem from="1684568661865" duration="211000" />
+      <workItem from="1684568884948" duration="5000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

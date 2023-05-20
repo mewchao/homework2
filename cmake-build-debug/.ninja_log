@@ -1,0 +1,7 @@
+# ninja log v5
+3	1154	7043871111212474	CMakeFiles/homework2.dir/main.cpp.obj	bc90939863eb483
+3	1729	7043886448626890	CMakeFiles/homework2.dir/222200231_student2.cpp.obj	ac88f40a6e6895f
+6	1519	7045211168069548	CMakeFiles/homework2.dir/student2.cpp.obj	fb8fda90235ab633
+2917	3070	7048278161872418	homework2.exe	7502e4c830d28840
+1	97	7062720863659285	build.ninja	e2f930080e48482e
+3	2916	7048278160342410	CMakeFiles/homework2.dir/student1.cpp.obj	bf35437dbc76ff5b
