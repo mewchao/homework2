@@ -1367,7 +1367,7 @@ bool student::get_major() {
 
     }
     if (this->college=="海洋学院") {
-
+//meww
     }
     if (this->college=="人文社会科学学院") {
 
